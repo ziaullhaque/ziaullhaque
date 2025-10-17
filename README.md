@@ -1,6 +1,6 @@
 # Hi, I'm Ziaull Haque 👋
 
-**Junior Web Developer (MERN) from Bangladesh**  
+**Junior Web Developer from Bangladesh**  
 I love building interactive and scalable web apps. Ready to contribute my skills for company growth.
 
 ---
@@ -27,7 +27,6 @@ I love building interactive and scalable web apps. Ready to contribute my skills
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ziaullhaque&show_icons=true&theme=tokyonight&count_private=true"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziaullhaque&theme=tokyonight&layout=compact"/>
 </p>
 
@@ -35,17 +34,9 @@ I love building interactive and scalable web apps. Ready to contribute my skills
 
 ## 💬 Ask me about
 
-HTML, CSS, Tailwind CSS, JavaScript, Firebase, React, Node.js, MongoDB
-
----
-
-## 📂 Projects
 
 <p align="center">
-<b>[English Janala](https://github.com/ziaullhaque/english-janala)</b><br>
-📝 Interactive web app for learning English.<br><br>
-<b>[Green Earth](https://github.com/ziaullhaque/Green-Earth)</b><br>
-🌱 Website to promote environmental awareness.
+<b>HTML, CSS, Tailwind CSS, JavaScript, Firebase, React, Node.js, MongoDB</b>
 </p>
 
 ---
@@ -61,13 +52,3 @@ HTML, CSS, Tailwind CSS, JavaScript, Firebase, React, Node.js, MongoDB
 </p>
 
 ---
-
-## ⚡ Fun Fact
-
-I am a Coffee addict ☕
-
----
-
-<p align="center">
-![Visitor Count](https://profile-counter.glitch.me/ziaullhaque/count.svg)
-</p>

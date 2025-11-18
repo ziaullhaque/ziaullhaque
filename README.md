@@ -72,7 +72,7 @@ I am constantly exploring advanced technologies to enhance my skills and take my
 
 ---
 
-
+<!-- ![](https://komarev.com/ghpvc/?username=ziaullhaque&style=for-the-badge) -->
 
 
 

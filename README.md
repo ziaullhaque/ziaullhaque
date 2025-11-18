@@ -1,8 +1,8 @@
 
 <!-- Banner -->
-<!-- <p align="center">
-  <img src="https://i.ibb.co.com/6Jf14TC/banner.jpg" alt="Banner" width="100%" />
-</p> -->
+<p align="center">
+  <img src="https://i.ibb.co.com/GvjRwTPQ/github-banner.png" alt="Banner" width="100%" />
+</p> 
 
 <h1 align="center">Hi, I'm Ziaull Haque 👋</h1>
 <h3 align="center">Web Developer from Bangladesh</h3>

@@ -17,8 +17,8 @@
 
 ## 👨‍💻 About Me
 
-Hello! I'm **Ziaull Haque**, a passionate **Junior Web Developer** who loves building interactive and modern web applications.  
-Currently exploring more advanced technologies to level up my development journey! I love building interactive and scalable web apps. Ready to contribute my skills for company growth.
+Hello! I'm Ziaull Haque, a passionate Web Developer who loves creating interactive and modern web applications.
+I am constantly exploring advanced technologies to enhance my skills and take my development journey to the next level. I enjoy building scalable and user-friendly apps and am always ready to contribute my expertise to meaningful projects.
 
 ### 🔹 What I'm Doing Now
 - 🌱 Exploring **Next.js**  

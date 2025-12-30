@@ -10,7 +10,7 @@
 ---
 
 ## 📍 Location & Contact
-- **Location:** Chittagong, Bangladesh  
+- **Location:** Feni, Bangladesh  
 - **Email:** muhammadziaullhaque00@gmail.com  
 
 ---
